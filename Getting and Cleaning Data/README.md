@@ -1,0 +1,5 @@
+1. This script opens text files that are in the directory "C:\\temp\\UCI HAR Dataset\\"
+2. Combines data sets with train and test data
+3. Selects the appropriate columns for further processing
+4.Appropriately labels the data set with descriptive variable names
+5. Create data set with the average of each variable for each activity and each subject.
